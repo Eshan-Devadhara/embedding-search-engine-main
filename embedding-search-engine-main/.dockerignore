@@ -1,0 +1,15 @@
+﻿# .dockerignore
+.git
+.gitignore
+.env
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.md
+tests/
+deploy.sh
+embeddings_cache.json
